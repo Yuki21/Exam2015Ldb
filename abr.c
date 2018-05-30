@@ -90,6 +90,7 @@ int main(void)
     puts("Presence des valeurs dans l'arbre de l'enonce :");
     test_presence(abr_ex);
 
+
     // cree un tableau
     uint64_t tab[NBR_ELEM];
     // initialise le ptr sur la premiere case du tableau
